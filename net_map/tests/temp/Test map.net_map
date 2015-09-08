@@ -1,0 +1,1 @@
+{"subnets": [{"net_map": 1, "net_objects": [], "name": "routers_subnet", "top": null, "cidr": null, "id": 0, "left": null}], "required_access_rules": [], "id": 1, "name": "Test map", "routers": []}
